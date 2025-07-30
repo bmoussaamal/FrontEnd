@@ -1,0 +1,4 @@
+{
+  withCredentials: true // ✅ Autoriser l'envoi/réception de cookies
+}
+
